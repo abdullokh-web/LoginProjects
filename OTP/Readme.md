@@ -41,7 +41,7 @@ cd LoginProjects
 ```sql
 CREATE DATABASE loginprojects;
 USE loginprojects;
--- Import tables from database.sql
+-- Import tables from otp_system.sql
 ```
 
 3. **Configure your Telegram bot and database credentials:**
